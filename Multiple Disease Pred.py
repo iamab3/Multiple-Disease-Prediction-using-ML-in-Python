@@ -148,7 +148,10 @@ if (selected == 'Heart Disease Prediction'):
      
     st.success(heart_diagnosis) 
         
-        
+
+# To run this code in your default browser
+# Go to anaconda -> Environment -> Open Terminal
+# Run the command -> streamlit run "File path"
         
         
         
